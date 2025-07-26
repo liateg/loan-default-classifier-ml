@@ -62,7 +62,7 @@ It includes the full ML pipeline from data analysis to model evaluation and is d
 | Day | Summary |
 |-----|---------|
 | D0 |  **Planning & Setup**: This first day of the project, I have Defined project scope, created GitHub repo and README, selected dataset from Kaggle, planned ML pipeline. Shared on LinkedIn. |
-| D1 | *(To be added)* |
+| D1 | **Data Loading & Cleaning and preprocessing:**  |
 | D2 | *(To be added)* |
 | D3 | *(To be added)* |
 | D4 | *(To be added)* |
